@@ -1,0 +1,5 @@
+1) log-in sistema
+2) donoro korteles su informacija kada paskutini karta buvo duotas kraujas
+3) asmeniniu duomenu issaugojimas
+4) klausimynas-anketine forma potencialiam donorui
+5) 
