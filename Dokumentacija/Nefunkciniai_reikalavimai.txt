@@ -1,0 +1,6 @@
+sistemą palaikos keturios pagr. naršyklės
+prisijungimo informacija koduojama
+greitas prisijungimas prie duomenų
+Aplikacija veikia 24 val per parą
+vienu metu gali būti prisujungusių daug vartotojų
+Donorų duomenis gali žinoti tik bankas ir sveikatos įstaiga
