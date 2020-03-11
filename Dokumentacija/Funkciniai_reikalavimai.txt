@@ -33,3 +33,5 @@ Iš kraujo centro ir sveikatos įstaigos pateikta informacija apie kraują saugo
 parengiamos automatines suvestines apie kraujo likucius
 Kraujo likučių suvestinei imami šie pjūviai: kraujo grupe, miestai/regionai, donoro amžiaus grupė
 Iš pateiktų duomenų ieškomi saryšiai, siekiant pagerinti donacijos efektyvumą, ieškomi būdai kaip paskatinti donaciją
+
+Sitemoje turi būti helpas
