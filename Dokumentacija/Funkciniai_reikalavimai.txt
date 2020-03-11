@@ -5,6 +5,8 @@ Donoras gali matyti kuriai įstaigai reikia atitinkamo kraujo
 Donoras gali matyti kuriam recipintui reikia kraujo, gali matyti jo kontaktus ir priskirtą istaigą
 Donorui pateikiama informacija apie istaigas, kur gali donuoti kraujo darbo valandos
 Donoras gali registruotis į donaciją
+Donoras gali atšaukti donaciją
+Donoras nurodo ar nori, kad jam galėtų per sistemą parašyti  recipientas
 Atlikus donaciją tam tikra informacija išsaugoma į sistemą,kurią patvirtina krauho bankas/ligoninė (taip galima registruoti donorystes istoriją)
 Po tam tikro laiko periodo donorui ateina priminimas apie galimą naują donaciją
 Donoras turi matyti informaciją apie vykdomas donorystes akcijas
@@ -15,6 +17,7 @@ Donoras mato savo donacijos istoriją
 recipienta gali registruotis ir turi savo acountą
 Recipientas gali įvesti savo duomenis
 Recipientas gali redaguoti savo duomenis
+Gavus sutikimui parašyti recipientui žinutę
 Recipientas gali sekti informaciją apie kraujo atsargas šalyje
 
 Sveikatos įstaigos/kraujos centro registravimasis
@@ -23,6 +26,8 @@ Sveikatos įstaiga/kraujos centro gali atnaujinti registracijos duomenis duomeni
 Sveikatos įstaiga/kraujos centro pateikia duoemenis apie reikamą kraują
 Sveikatos įstaiga /kraujos centro į sistemą registruoja donorus, ne sistemos naudotojus
 Sveikatos įstaiga/kraujos centro registruoja/patvirtina donaciją
+Sveikatos įstaiga/kraujos centro registruoja/patvirtina donaciją
+Sveikatos įstaiga/kraujos centro gali atšaukti donaciją
 
 Iš kraujo centro ir sveikatos įstaigos pateikta informacija apie kraują saugoma saugykloje
 parengiamos automatines suvestines apie kraujo likucius
