@@ -1,0 +1,47 @@
+I. Vartotojas: 
+	1. Registracija su identifikacija;
+	2. User + password;
+II. Vartotojo teisës: 
+	1. Kraujo bankas:
+		a) Mato visus duomenis, gali juos filtruoti: vietovës, poreikis, surinkimo kiekiai, ypatumai, kontaktai;
+		b) Skelbia informacijà (pvz. apie vykdomas akcijas, ar ypatingà poreiká); 
+		c) Kontaktuoja vartotojus.
+	2. Medicinos ástaiga: 
+		a) Mato vieðai skelbiamus duomenis, gali juos filtruoti: vietovës, poreikis, surinkimo kiekiai, ypatumai, vieði kontaktai;
+		b) Skelbia turimas atsargas;
+		c) Skelbia informacijà (pvz. apie vykdomas akcijas, ar ypatingà poreiká); 
+		d) Kontaktuoja tik tuos vartotojus, kurie davë sutikimà.
+		e) Anoniminius vartotojus kontaktuoja per programà (anonimiðkai, t.y. vartotojas gauna info, kad ástaigai reikalinga jo donacija). 
+	3. Vartotojas (donoras ar gavëjas);
+		a) Mato dalinæ informacijà (lokacijos ir poreikis);
+		b) Mato ástaigø skelbimus;
+		c) Skelbia apie galimybæ aukoti kraujà;
+		d) Mato savo istorijà; 
+		e) Bonusai (gali bûti skatinami, pvz rinkti taðkus - surinkus x gauti nemokamà sveikatos/kraujo tyrimà). 
+III. Pagrindinis objektas: 
+	1. Kraujas:
+		a) Kraujo grupë;
+		b) Rezus faktorius;
+		c) Suderinamumas;
+		d) Saugojimo vieta;
+		e) Kiekis;
+		f) Galiojimo laikas;
+		g) Ypatingi poþymiai;
+		h) Poreikis;
+	2. Davëjas:
+		a) Kraujo grupë;
+		b) Rezus faktorius;
+		c) Ypatingi poþymiai (ligos ar pan.);
+		d) Istorija (tyrimo atsakymai ar pan.;
+		e) Vieta;
+		g) Tinkamumo vertinimas;
+		h) Artimiausia galima data (jei pvz. nesenai aukojo);
+		i) Sutikimas vieðai skelbti kontaktus (jei nesutinka, já kontaktuoti gali tik Kraujo bankas). 
+	3. Ástaiga:
+		a) Vietovë;
+		b) Turimos atsargos;
+		c) Planuojamas poreikis;
+
+Gavëjø èia traukti nesiølau, nes tam kur, kada ir kiek panaudota reikëtø kurti atskirà sistemà. 
+		
+		
