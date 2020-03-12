@@ -1,0 +1,12 @@
+Nefunkciniai reiklavimai:
+
+-Produktas turi veikti greitai:
+	a) Programa turi užsikrauti per <3 sekundes.
+	b) nė vienas veiksmas programoje neturi užtrukti >3 sek.
+-Produktas turi buti intuityvus ir lengvai suprantamas - t.y. programos naudojimosi mokymai neturėtų užtrukti ilgiau 2 valandų.
+-Produktas neturi užimti daug vietos - t.y. jo dydis turėtų būti mažiau <100.
+-Produktas turi veikti  Windows 10 ir Windows 8 operacinėse sistemose.
+-Produktas turi veikti be klaidų. Klaidos atveju klaidos žinutė turi pateikti informaciją kuo paprasčiau.
+-Programa turi turėti "tutorial", kuris suveikia pirmą kart paleidus programą ir po to "tutorial" turi būti pasiekiamas programos viduje.
+-
+ 

@@ -1,0 +1,27 @@
+Funkciniai reikalavimai:
+
+-Vartotojų registracija turi būti trijų rūšių:
+	a) Kraujo bankai;
+	b) ligoninės;
+	c) privatūs asmeniai.
+-Vykdant paiešką ligoninės gali pasirinkti ieškoti pagal:
+	a) kraujo bankus;
+	b) kraujo rezervus.
+- Vykdant paiešką kraujo bankai gali pasirinkti ieškoti pagal:
+	a) kitus kraujo bankus;
+	b) kraujo rezervus.
+	c)individualių ligoninių kraujo poreikius;
+- Vykdant paiešką privatūs asmenys gali pasirinkti ieškoti pagal:
+	a) kraujo rezervus;
+	b) kraujo bankus.
+-Užsakymų istorijoje turi matytis kraujo vienetų užsakymų istorija
+	a) užsakymo data;
+	b) kraujo tipas ir jo informacija;
+	c) užsakymo įgyvendinimo data;
+	d) kas pateikė užsakymą ir kas jį įgyvendino.
+- Programoje turi būti "skelbimų lenta" - kokiam subjektui (kraujo bankas, ligoninė, privatus asmuo) kokio tipo kraujo reikia. 
+- Įdiegti funkciją leidžiančią programos vartotojui "užsisakyti" kraujo tipo, kurio jis negali rasti. T.y. jei donarui davus kraujo,
+jo kraujas nukeliauja į kraujo banką, informacija apie gautą kraujo tipą, turi būti išsiunčiama elektroniniu paštu subjektui ieškančiui to kraujo tipo.
+- Programa turi pranešti kraujo bankui, kada jo rezervai pradeda sekti ir smarkiai sumažėja retų kraujo tipų - tam kad išvengti kritinių situacijų, 
+kada staiga prireikus kraujo jo jau nebūtų likę.
+- 
